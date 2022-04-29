@@ -1,0 +1,19 @@
+[
+ {
+  "titulo": "hacer la comida",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "ejercicio del Playground",
+  "estado": "en proceso"
+ },
+ {
+  "titulo": "terminar tarea de la facu",
+  "estado": "terminado"
+ },
+
+ {
+  "titulo": "hola",
+  "estado": "pendiente"
+ }
+]
